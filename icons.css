@@ -1,0 +1,15 @@
+/*Shuwray*/
+[data-cid^="6732374-"] .msg .from .un{
+position:relative;
+left:-2.3px;
+padding-left:21px;
+background-image:url(http://i.imgur.com/O1OI87d.gif);
+background-repeat:no-repeat;
+background-position:2px center;
+background-size:15px auto;
+}
+
+[data-cid^="6732374-"] .badge-box .bdg{
+background: url('http://i.imgur.com/xrrCwNO.png')!important;
+background-position: 0 0;
+}
